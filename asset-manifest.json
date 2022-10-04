@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/navbar-tutorial-react/static/css/main.653bb178.css",
+    "main.js": "/navbar-tutorial-react/static/js/main.f9610628.js",
+    "static/media/logo.png": "/navbar-tutorial-react/static/media/logo.802c56fb04a91b5c1789.png",
+    "index.html": "/navbar-tutorial-react/index.html",
+    "main.653bb178.css.map": "/navbar-tutorial-react/static/css/main.653bb178.css.map",
+    "main.f9610628.js.map": "/navbar-tutorial-react/static/js/main.f9610628.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.653bb178.css",
+    "static/js/main.f9610628.js"
+  ]
+}
